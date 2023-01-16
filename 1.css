@@ -1,0 +1,15 @@
+.paragraph {
+	color:gray;
+}
+.paragraph:hover {
+	color:black;
+}
+.heading2 {
+	color:red;
+}
+.heading2:hover {
+	color:orange;
+}
+.heading1:hover {
+	color:orange;
+}
